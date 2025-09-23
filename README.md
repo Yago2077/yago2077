@@ -2,6 +2,6 @@
   
   <p>   🖖 Olá, meu nome é Yago Diehl resido em Campinas-SP e possuo experiência em programação,
       com  ㅤfoco em desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong>. Atualmente buscando um emprego!<br>
-     Meus objetivos são: me aprimorar, obter mais conhecimento e desenvolver novos projetos!</p>  <strong>  ──────────────────────────────────────────────────────────────</strong><br><br>
+      Meus objetivos são: me aprimorar, obter mais conhecimento e desenvolver novos projetos!</p>  <strong>  ──────────────────────────────────────────────────────────────</strong><br><br>
   <p>   👾 Linguagens: <strong> HTML5/CSS3/Java/NodeJS/Python</strong></p>
   <p>   💼 Ferramentas: <strong>Visual Studio Code</strong></p>
