@@ -9,7 +9,17 @@
   <hr>
 
   <div align="left">
-    <p>👾 <strong>Linguagens:</strong> HTML5 / CSS3 / Java / NodeJS / Python</p>
-    <p>💼 <strong>Ferramentas:</strong> Visual Studio Code</p>
+    <p>
+      👾 <strong>Linguagens:</strong> 
+      HTML5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="16" height="16" valign="middle" /> / 
+      CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="16" height="16" valign="middle" /> / 
+      Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="16" height="16" valign="middle" /> / 
+      NodeJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="16" height="16" valign="middle" /> / 
+      Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="16" height="16" valign="middle" />
+    </p>
+    <p>
+      💼 <strong>Ferramentas:</strong> 
+      Visual Studio Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="16" height="16" valign="middle" />
+    </p>
   </div>
 </blockquote>
