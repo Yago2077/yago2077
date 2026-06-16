@@ -1,16 +1,15 @@
-<table>
-  <tr>
-    <td valign="top" width="200">
-      <img src="https://github.com/user-attachments/assets/486a1463-6a18-4d51-a7d5-aca9fc7ecafe" alt="gif do zenitsu" width="200">
-    </td>
-    <td valign="top">
-      <p>🖖 Olá, meu nome é <strong>Yago Diehl</strong>, resido em Campinas-SP e possuo experiência em programação, com foco em desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong>. Atualmente buscando um emprego!</p>
-      <p>Meus objetivos são: me aprimorar, obter mais conhecimento e desenvolver novos projetos!</p>
-    </td>
-  </tr>
-</table>
+<blockquote>
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/486a1463-6a18-4d51-a7d5-aca9fc7ecafe" alt="gif do zenitsu" width="180px" style="border-radius: 10px;">
+    <h2>🖖 Olá, meu nome é Yago Diehl</h2>
+    <p>Resido em Campinas-SP e possuo experiência em programação, com foco em desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong>. Atualmente buscando um emprego!</p>
+    <p><em>"Meus objetivos são: me aprimorar, obter mais conhecimento e desenvolver novos projetos!"</em></p>
+  </div>
 
-<hr>
+  <hr>
 
-<p>👾 <strong>Linguagens:</strong> HTML5 / CSS3 / Java / NodeJS / Python</p>
-<p>💼 <strong>Ferramentas:</strong> Visual Studio Code</p>
+  <div align="left">
+    <p>👾 <strong>Linguagens:</strong> HTML5 / CSS3 / Java / NodeJS / Python</p>
+    <p>💼 <strong>Ferramentas:</strong> Visual Studio Code</p>
+  </div>
+</blockquote>
